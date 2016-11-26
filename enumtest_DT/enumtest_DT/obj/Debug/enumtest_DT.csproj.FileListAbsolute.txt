@@ -1,0 +1,9 @@
+D:\Akinao\git\aiaostar\enumtest_DT\enumtest_DT\bin\Debug\enumtest_DT.exe.config
+D:\Akinao\git\aiaostar\enumtest_DT\enumtest_DT\bin\Debug\enumtest_DT.exe
+D:\Akinao\git\aiaostar\enumtest_DT\enumtest_DT\bin\Debug\enumtest_DT.pdb
+D:\Akinao\git\aiaostar\enumtest_DT\enumtest_DT\obj\Debug\enumtest_DT.csprojResolveAssemblyReference.cache
+D:\Akinao\git\aiaostar\enumtest_DT\enumtest_DT\obj\Debug\enumtest_DT.Form1.resources
+D:\Akinao\git\aiaostar\enumtest_DT\enumtest_DT\obj\Debug\enumtest_DT.Properties.Resources.resources
+D:\Akinao\git\aiaostar\enumtest_DT\enumtest_DT\obj\Debug\enumtest_DT.csproj.GenerateResource.Cache
+D:\Akinao\git\aiaostar\enumtest_DT\enumtest_DT\obj\Debug\enumtest_DT.exe
+D:\Akinao\git\aiaostar\enumtest_DT\enumtest_DT\obj\Debug\enumtest_DT.pdb
